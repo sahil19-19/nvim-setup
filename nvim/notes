@@ -1,0 +1,38 @@
+so
+    # this sources file out
+    # keymap -> <leader><leader>
+    
+NvimTree - File Explorer
+    # https://docs.rockylinux.org/books/nvchad/nvchad_ui/nvimtree/
+    # alterative for netrw
+
+%s
+    # do for the entire file
+
+/
+    # enables search mode in normal mode
+    # type string , hit enter
+    # n to move to the next matching string
+    # N to move to the last matching string
+
+ap
+    # copy this paragraph
+
+<leader>gd 
+    # jumps to the file,ie., <"sahilv.set"> would jumps tp set.lua in sahilv directory
+
+
+<C-a> L
+    # tmux previous session
+
+ggvG"*y / +y
+    # copy to register-> */+
+    # " tells vim that u wanna use a register
+
+todo
+    # make short cut to go back to previous tab in harpoon
+    # what is quickfix navigation 
+    # cph -> practice and contest
+    # cpp snippet for coding
+    # debugging?
+
