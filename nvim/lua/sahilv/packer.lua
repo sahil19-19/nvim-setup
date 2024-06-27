@@ -7,6 +7,7 @@ return require('packer').startup(function(use)
 
   use "nvim-lua/plenary.nvim"
 
+  -- lsp support
   use 'neovim/nvim-lspconfig'
   use 'williamboman/mason.nvim'
   use 'williamboman/mason-lspconfig.nvim'

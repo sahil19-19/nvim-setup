@@ -19,4 +19,5 @@ vim.api.nvim_create_user_command("D" , function ()
     vim.cmd('CphDelete' .. tostring(test_no))
 end,{})
 
-
+-- these commands will be run like other commands, ie :R to receive question
+-- the file and folders will be made automatically

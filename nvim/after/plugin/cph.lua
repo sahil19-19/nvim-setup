@@ -1,7 +1,7 @@
 -- vim.g['cph#dir'] = "/home/aryan/test"
 -- vim.g['cph#lang'] = "rust"
-vim.g['cph#rust#createjson'] = true
-vim.g['cph#dir'] = '/home/sahilv/Documents/CP/contests'
+-- vim.g['cph#rust#createjson'] = true
+vim.g['cph#dir'] = '/home/sahilv/code/CP/contests'
 -- vim.g['cph#dir'] = '/home/sahilv/Documents/CP/cp practice'
 
 -- split / floating window for results

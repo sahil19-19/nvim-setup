@@ -29,10 +29,33 @@ ggvG"*y / +y
     # copy to register-> */+
     # " tells vim that u wanna use a register
 
+
+Packer
+    # mention the package u want to install
+    # run :so
+    # run :PackerSync
+    #  
+
+undo tree
+    # <leader>u
+
+harpoon
+    # <leader>a to add file
+    # ctrl n to open harpoon
+    # <leader> h/j/k/l to choose file number 1 2 3 4 resp
+
+Mason
+    # package manager for LSP
+    # manages language servers
+    # :Mason, to access , scroll and press 'i' for installing desired LS
+    # make sure language is already installed
+
+custom-commands for CPH
+    # :R to receive
+    # :T to test
+    # :E to edit test case
+    # :D to delete test case
 todo
     # make short cut to go back to previous tab in harpoon
     # what is quickfix navigation 
-    # cph -> practice and contest
-    # cpp snippet for coding
-    # debugging?
 
